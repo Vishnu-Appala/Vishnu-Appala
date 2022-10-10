@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vishnu Appala
-- 👀 I’m interested in cloud Technologies.
-- 🌱 I’m currently learning AWS, and learn my basics for my Masters. 
+- 👀 I’m interested in cloud Technologies. 
 - 📫 How to reach me pn vishnu.vishnu411@gmail.com
 
 <!---
