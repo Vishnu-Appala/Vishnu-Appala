@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishnu Appala
-- 👀 I’m interested in cloud Technologies. 
+- Masters Student from University of Windsor
 - 📫 How to reach me pn vishnu.vishnu411@gmail.com
 
 <!---
